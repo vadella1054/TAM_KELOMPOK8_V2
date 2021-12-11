@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="Bahasa"
+            android:textAlignment="center"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Bahasa Lampung (cawa Lampung) atau rumpun bahasa Lampungik adalah sebuah bahasa atau kelompok dialek Austronesia dengan jumlah penutur jati sekitar 1,5 juta, terutama dari kalangan suku Lampung beserta rumpunnya di selatan Sumatra, Indonesia. Terdapat dua atau tiga ragam bahasa Lampung, yaitu: Lampung Api (juga disebut Pesisir atau dialek A), Lampung Nyo (juga disebut Abung atau dialek O), dan Komering. Ragam terakhir terkadang dianggap sebagai bagian dari Lampung Api, tetapi terkadang juga dianggap sebagai bahasa yang berdiri sendiri terpisah dari bahasa Lampung. Orang Komering umumnya menganggap bahwa suku mereka berbeda dari orang Lampung, walaupun masih berkerabat dekat. "
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/dialek" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="wrap_content"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/dialek2" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Dialek A"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Bahasa Lampung Api, juga dinamakan bahasa Lampung dialek A, adalah bahasa yang ditutur di anggota barat, tengah dan selatan Provinsi Lampung. Penuturnya berjumlah 827.000 orang (sensus 2000)."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Dialek O"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView7"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Bahasa Lampung dialek 0, yakni bahasa Lampung yang dipakai oleh masyarakat Lampung didaerah Lampung Utara dan Lampung Tengah serta 7 buah desa di Lampung Selatan."
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = hhttp://www.linguistik-indonesia.org/images/files/FonologiBhsLampungDialekO.pdf"
+            android:textSize="14sp" />
+
+
+    </LinearLayout>
+</ScrollView>

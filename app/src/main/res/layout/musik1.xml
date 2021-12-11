@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Lipang Lipang Dang\n"
+            android:textSize="20sp" />
+
+        <VideoView
+            android:id="@+id/vv"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_below="@+id/textView1" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Lirik Lagu Lipang Lipang Dang\n\nPang li pang dang li pang dang kilidang\nPang li pang dang sakik lipang jak kundang\nYu yupayu yupayu ku tekhima\nyu yupayu yupayu kaya dia\nApi penggali lawas pakai tembilang besi\nMekha nai awas awas mekha nai awas awas\nNayah muli membudi"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Salah satu lagu daerah Lampung yang terkenal yaitu Lipang Lipang Dang. Lagu ini bercerita tentang kisah cinta seorang bujang yang telah ditinggal oleh kekasihnya. Nadanya yang mendayu-dayu sangat cocok untuk didengarkan ketika suasana hati sedang kalut. Bait-bait dalam tiap liriknya berupa pantun yang mempunyai makna cukup jelas dan tegas. Makna yang terselip dari lagu daerah ini yaitu berhati-hatilah ketika membahas persoalan tentang cinta. Cinta dapat membuat seseorang menjadi buta dan tidak dapat berpikir secara jernih. "
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://www.blibli.com/friends/blog/lagu-daerah-lampung-16/"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</ScrollView>

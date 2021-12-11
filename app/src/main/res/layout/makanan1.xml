@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Seruit"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/makanan1" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Kalau berbicara tentang seruit, semua pasti sepakat kalau makanan satu ini menjadi makanan khas Lampung yang paling terkenal. Seruit juga sering disajikan dalam acara-acara besar, seperti acara pernikahan. Lantas, Seruit adalah makanan khas Lampung yang terdiri dari ikan yang digoreng atau dibakar, dicampurkan dengan sambal terasi, tempoyak, atau mangga. Nah, biasanya ikan yang disajikan untuk seruit, seperti ikan balide, baung, layis, atau ikan sungai lainnya. Cara pembuatannya bisa dibilang cukup sederhana, Ikan yang sudah dipilih tadi, kemudian dibumbui dengan bawang putih, garam, kunyit, dan sehat.Ketika dibakar atau digoreng, maka diberikan tambahan sambal terasi yang dicampur dengan tempoyak. Terakhir, nasi dan lalapan menjadi pelengkap seruit yang paling pas dan lezat untuk disantap. Nama seruit sendiri berasal dari kata ‘nyeruit’ yang memiliki arti, yaitu dilakukan bersama-sama. Nama ini berangkat dari ciri khas masyarakat Lampung yang memiliki nilai kebersamaan yang tinggi."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://www.orami.co.id/magazine/makanan-khas-lampung/"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</ScrollView>

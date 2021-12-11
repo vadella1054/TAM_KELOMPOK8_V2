@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView44"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Gabing"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView44"
+            android:layout_width="match_parent"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/makanan6" />
+
+        <TextView
+            android:id="@+id/textView87"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView7"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Hampir punah dan jarang ditemui dalam hidangan sehari-hari, sebenarnya sayur gabing adalah salah satu makanan khas Lampung yang wajib dicoba. Sayur ini terbuat dari batang kelapa muda yang dipotong-potong, kemudian dimasak dengan kuah santan serta bumbu-bumbu pelengkap lainnya. Rasa khas dari sayur gabing ini sendiri adalah manis alami, dan memiliki tekstur yang renyah seperti rebung. Rasa gurih dari santannya juga akan membuat lidah ketagihan dan tidak mau berhenti mengunyah. Uniknya, dulu sayur gabing sangat akrab menjadi menu harian masyarakat Lampung. Sebab, masyarakat setempat sering menebang pohon kelapa untuk memanfaatkan bagian dari pohonnya."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://www.orami.co.id/magazine/makanan-khas-lampung/"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</ScrollView>

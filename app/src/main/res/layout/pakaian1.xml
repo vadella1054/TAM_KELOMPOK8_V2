@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Pakaian Adat Pepadun"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/pakaian1" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Pakaian adat Lampung suku Pepadun yang mendiami daerah pedalaman atau daerah dataran tinggi Lampung, terlihat dalam busana pengantin untuk prosesi pernikahan. Pakaian adat pria berupa baju lengan panjang berwarna putih yang dipadukan dengan celana panjang hitam.Di luarnya, dibalut dengan sarung tumpal yaitu kain sarung khas Lampung yang ditenun menggunakan benang emas. Sarung ini dipakai menutup celana dari pinggang hingga lutut. Kemudian, di bagin luar sarung, diikat sesapuran atau sehelai kain putih dengan rumbai tinggi. Bagian bahu dilingkari dengan selendang bujur sangkat atau khikat akhir. Sama halnya dengan busana pengantin pria, pakaian adat Lampung untuk pengantin wanita memiliki ciri khas berwarna putih dan emas, serta bentuknya seperti kebaya yang ramping membalut badan. Bagian bawah, dililitkan kain tapis dengan motif khusus yang terbuat dari benang emas dan perak. Keistimewaan busana pengantin wanita terletak pada aksesoris pelengkapnya, seperti siger atau mahkota, gelang, kalung, cincing dan hiasan pada pinggang."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://www.orami.co.id/magazine/pakaian-adat-lampung/"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</ScrollView>

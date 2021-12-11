@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/activity_lampung1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/adat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/dialek.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/fragment_lampung1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/header.xml" value="0.4" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/home.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/lampung.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/makanan.xml" value="0.13079603323505762" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/makanan1.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/makanan2.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/makanan3.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/makanan4.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/makanan5.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/makanan6.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/makanan7.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/musik.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/musik1.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/musik2.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/musik3.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/pakaian.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/pakaian1.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/pakaian2.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/pengembang.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/relative.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/rumah.xml" value="0.1828793774319066" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/rumah1.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/rumah2.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/rumah3.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/sejarah.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/splashscreen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/tari.xml" value="0.1625582944703531" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/tari1.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/tari2.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/tari3.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/tari4.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/tari5.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/tari6.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/layout/tari7.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Lampture/app/src/main/res/menu/main_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

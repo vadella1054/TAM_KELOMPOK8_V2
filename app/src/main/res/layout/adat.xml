@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="Adat"
+            android:textAlignment="center"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Adat Lampung terdiri dari dua adat istiadat, yaitu Sai Batin dan Pepadun. “Sai Batin” berarti Satu Penguasa (Raja) sedangkan “Pepadun” berarti Tempat Duduk Penobatan Penguasa."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Adat Pepadun"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/pepadun" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Masyarakat adat Lampung Pepadun adalah salah satu dari dua kelompok adat besar dalam masyarakat Lampung. Masyarakat ini mendiami daerah pedalaman atau daerah dataran tinggi Lampung. Berdasarkan sejarah perkembangannya, masyarakat Pepadun awalnya berkembang di daerah Abung, Way Kanan, dan Way Seputih (Pubian). Kelompok adat ini memiliki kekhasan dalam hal tatanan masyarakat dan tradisi yang berlangsung dalam masyarakat secara turun temurun. Masyarakat Pepadun menganut sistem kekerabatan patrilineal yang mengikuti garis keturunan bapak. Dalam suatu keluarga, kedudukan adat tertinggi berada pada anak laki-laki tertua dari keturunan tertua, yang disebut “Penyimbang”. Gelar Penyimbang ini sangat dihormati dalam adat Pepadun karena menjadi penentu dalam proses pengambilan keputusan. Status kepemimpinan adat ini akan diturunkan kepada anak laki-laki tertua dari Penyimbang, dan seperti itu seterusnya. Berbeda dengan Saibatin yang memiliki budaya kebangsawanan yang kuat, Pepadun cenderung berkembang lebih egaliter dan demokratis. Status sosial dalam masyarakat Pepadun tidak semata-mata ditentukan oleh garis keturunan. Setiap orang memiliki peluang untuk memiliki status sosial tertentu, selama orang tersebut dapat menyelenggarakan upacara adat Cakak Pepadun. Gelar atau status sosial yang dapat diperoleh melalui Cakak Pepadun diantaranya gelar Suttan, Raja, Pangeran, dan Dalom. Nama “Pepadun” berasal dari perangkat adat yang digunakan dalam prosesi Cakak Pepadun. “Pepadun” adalah bangku atau singgasana kayu yang merupakan simbol status sosial tertentu dalam keluarga. Prosesi pemberian gelar adat (“Juluk Adok”) dilakukan di atas singgasana ini. Dalam upacara tersebut, anggota masyarakat yang ingin menaikkan statusnya harus membayarkan sejumlah uang (“Dau”) dan memotong sejumlah kerbau. Prosesi Cakak Pepadun ini diselenggarakan di “Rumah Sessat” dan dipimpin oleh seorang Penyimbang atau pimpinan adat yang posisinya paling tinggi."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Adat Saibatin"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/saibatin" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView7"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Suku Saibatin mendiami daerah pesisir Lampung yang membentang dari timur, selatan, hingga barat. Wilayah persebaran Suku Saibatin mencakup Lampung Timur, Lampung Selatan, Bandar Lampung, Pesawaran, Tanggamus, dan Lampung Barat. Seperti juga Suku Pepadun, Suku Saibatin atau Peminggir menganut sistem kekerabatan patrilineal atau mengikuti garis keturunan ayah. Meski demikian, Suku Saibatin memiliki kekhasan dalam hal tatanan masyarakat dan tradisi. “Saibatin” bermakna satu batin atau memiliki satu junjungan. Hal ini sesuai dengan tatanan sosial dalam Suku Saibatin, hanya ada satu raja adat dalam setiap generasi kepemimpinan. Budaya Suku Saibatin cenderung bersifat aristokratis karena kedudukan adat hanya dapat diwariskan melalui garis keturunan. Tidak seperti Suku Pepadun, tidak ada upacara tertentu yang dapat mengubah status sosial seseorang dalam masyarakat. Ciri lain dari Suku Saibatin dapat dilihat dari perangkat yang digunakan dalam ritual adat. Salah satunya adalah bentuk siger (sigekh) atau mahkota pengantin Suku Saibatin yang memiliki tujuh lekuk/pucuk (sigokh lekuk pitu). Tujuh pucuk ini melambangkan tujuh adoq, yaitu suttan, raja jukuan/depati, batin, radin, minak, kimas, dan mas. Selain itu, ada pula yang disebut awan gemisir (awan gemisikh) yang diduga digunakan sebagai bagian dari arak-arakan adat, diantaranya dalam prosesi pernikahan."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://indonesiakaya.com/pustaka-indonesia/masyarakat-adat-lampung-pepadun/ dan https://indonesiakaya.com/pustaka-indonesia/masyarakat-adat-lampung-saibatin/ "
+            android:textSize="14sp" />
+
+
+
+    </LinearLayout>
+</ScrollView>

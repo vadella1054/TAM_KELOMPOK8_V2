@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView44"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Tari Merak Kenyangan"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView44"
+            android:layout_width="match_parent"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/tari7" />
+
+        <TextView
+            android:id="@+id/textView87"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView7"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Berikutnya ada tari Merak Kenyangan yang merupakan tarian yang begitu terkenal di Indonesia dan sudah sangat umum untuk disaksikan di tiap pergelaran adat tradisional. Tari merak ini pasti turut serta untuk memeriahkan acara mempunyai ciri seperti burung merak. Busana tarian ini dibuat hampir menyerupai hewan itu sendiri. Pesonanya juga mempunyai motif bulu halus dan warna kain dibuat serupa dengan warna pada bulu burung merak yang asli yaitu hijau, biru maupun hitam. Di dalam busana tari merak ada sepasang sayap yang menggambarkan sayap burung merak yang sedang mengembang. Gambaran asli akan sangat terlihat ketika para penari memakai mahkota yang dipasang di atas kepala mereka. Tari merak mempunyai penari dengan jumlah minimal 3 orang. Tarian ini mempunyai fungsi masing-masing di setiap gerakan penarinya dan diiringi dengan lagu Macan Ucul. Terdapat berapa adegan Waditra Bonang yang dipukul di bagian kayunya yang cukup keras dan terdengar bunyinya. Hal ini menandakan bahwa sepasang burung merak sedang bermesraan. "
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://perpustakaan.id/tarian-lampung/"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</ScrollView>

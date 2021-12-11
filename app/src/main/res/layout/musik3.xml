@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Bumi Lampung\n"
+            android:textSize="20sp" />
+
+        <VideoView
+            android:id="@+id/vv3"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_below="@+id/textView9" />
+
+        <TextView
+            android:id="@+id/textView76"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Lirik Lagu Bumi Lampung\n\nSangun kak jak zaman ho\nLampung ghadu dikenal\nHasilno kupi lado\nJadi idaman kaum modal\nWawai pemandangannyo\nJak pinggegh Teluk Lampung\nPek ulun besoko-soko\nLamun gham di nggak gunung\nSang Bumi Ghuwa Jughai\nEno lambang sai agung\nLapah gham jamo-jamo\nGuwai ngebangun bumi Lampung\n\nSang Bumi Ghuwa Jughai\nEno lambang sai agung\nLapah gham jamo-jamo\nGuwai ngebangun bumi Lampung"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView7"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sesuai dengan judulnya “Bumi Lampung” mengisahkan mengenai seluk beluk sumber daya alam pada Provinsi Lampung. Kekayaan alam tersebut sangat tergambarkan dari beberapa penggalan lirik seperti “Sangun kak jak zaman ho, Lampung ghadu dikenal, Hasilno kupi lado”. Pada lirik tersebut menjelaskan bahwa Lampung sejak zaman dahulu sudah terkenal akan hasil alam berupa kopi dan lada. Selain itu Bumi Lampung juga menceritakan tentang keindahan pemandangan alam yang dimilikinya. Hal ini jelas tertulis dalam lirik “Wawai pemandangannyo, Jak pinggegh Teluk Lampung, Pek ulun besoko-soko, Lamun gham di nggak gunung”. Dalam lagu ini juga memberikan pesan agar penduduk Lampung bisa menjaga kelestarian alam yang dimilikinnya bersama-sama sebagai tanda syukur atas kenikmatan yang Tuhan berikan."
+            android:textSize="14sp" />
+
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://www.blibli.com/friends/blog/lagu-daerah-lampung-16/"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</ScrollView>

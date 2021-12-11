@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Tari Halibambang"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView20"
+            android:layout_width="match_parent"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/tari4" />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView7"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Selanjutnya, tarian adat Lampung adalah tarian halibambang yang menjadi warisan nenek moyang suku Lampung Sekala Brak. Tarian ini biasanya digunakan ketika adanya acara pernikahan dan juga acara pesta bernama Nyampai. Tarian ini diperuntukkan bagi tamu yang datang ke acara pernikahan. Dari segi ke makna katanya sendiri, Hali berarti seperti atau bagaikan dan Bambang berarti kupu-kupu. Tari Halibambang bisa disimpulkan sebagai sebuah tarian yang penggambarannya merupakan kupu-kupu yang berterbangan sambil mengibas sayapnya yang indah. Dahulunya tari Halibambang ini sangatlah tertutup, hanya bisa dipertunjukkan pada saat acara tertentu saja. Halibambang juga merupakan tarian khusus keluarga besar Lampung Sekala Brak yang mempunyai adat saibatin. "
+            android:textSize="14sp" />
+
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://perpustakaan.id/tarian-lampung/"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</ScrollView>

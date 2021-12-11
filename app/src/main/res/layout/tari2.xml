@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Tari Bedana"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView66"
+            android:layout_width="match_parent"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/tari2" />
+
+        <TextView
+            android:id="@+id/textView55"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView7"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Nama Tarian adat Lampung selanjutnya adalah tarian Bedana, dimanah tarian ini sudah ada sejak masuknya Islam ke Indonesia. Pada mulanya hanya diselenggarakan ketika ada keluarga yang baru saja hatam Alquran. Tetapi dengan perkembangan waktu dari masa kemasa, tari Bedana ini bisa dinikmati oleh setiap kalangan di Lampung secara terbuka. Adapun makna dari tarian Bedana ini adalah ajaran Islam yang mencerminkan sisi kehidupan dan Sisi masyarakat Lampung. Tari Bedana juga sangat akrab dan ramah. Selain itu juga digunakan sebagai simbol persahabatan dan juga pergaulan anak remaja di daerah Lampung. Tarian ini juga merupakan ekspresi perasaan gembira dan sukacita yang sangat mendalam dengan iringan musik gamelan khas Jawa. Suasana yang tercipta dari tarian Bedana ini selalu antusias dan menarik. Tarian ini juga diiringi oleh alat musik tradisional yang khas misalnya gambus, kerenceng, ketipung dan juga diiringi oleh lagu yang cenderung bernuansa gembira dan juga riang. "
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://perpustakaan.id/tarian-lampung/"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</ScrollView>

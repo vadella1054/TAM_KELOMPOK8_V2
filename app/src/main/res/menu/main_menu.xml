@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item>
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/home"
+                        android:title="Home" />
+                    <item
+                        android:id="@+id/lampung"
+                        android:title="Tentang Lampung" />
+                <item
+                    android:id="@+id/adat"
+                    android:title="Adat" />
+                <item
+                    android:id="@+id/dialek"
+                    android:title="Bahasa" />
+                </group>
+            </menu>
+        </item>
+
+    <item android:title="Tentang">
+   <menu>
+       <group android:checkableBehavior="single">
+       <item
+           android:id="@+id/pengembang"
+           android:title="Pengembang" />
+       </group>
+   </menu>
+
+    </item>
+
+</menu>

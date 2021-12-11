@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="Sejarah"
+            android:textAlignment="center"
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/sejarah1" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Suku Bangsa Lampung merupakan bagian dari bangsa Austronesia yang leluhurnya diperkirakan berasal dari kepulauan Formosa yang bermigrasi ke Kepulauan Filipina, Sumatra Bagian Pesisir Utara, Sulawesi, Kalimantan dan kemudian berakhir di Selatan Sumatera. Dalam studi bahasa yang pernah dilakukan, Etnis Lampung memiliki akar kesamaan bahasa dengan masyarakat tradisional Puyuma di kepulauan Formosa.\n\nBeberapa catatan sejarah dari Tiongkok menuliskan, bahwa pada abad ke VII masyarakat telah membicarakan suatu wilayah didaerah Selatan (Namphang) dimana terdapat kerajaan yang disebut To-Lang Po-Hwang, To berarti orang dan Lang-Po-Hwang adalah Lampung. Menunjukan bukti bahwa telah datang kenegeri Tiongkok, utusan dari masyarakat lemah Lampung pada abad ke VII.\n\nDalam kronik Taiping Huanyu Ji yang ditulis oleh Yue-Shi dari abad ke X, lebih jelas lagi disebutkan nama-nama negeri di kawasan Nan-hai (Laut Selatan), antara lain dua buah negeri yang disebutkan berurutan: To-lang dan Po-hwang. Negeri To-lang hanya disebut satu kali. Tetapi negeri Po-hwang cukup banyak disebut, sebab negeri ini telah mengirim utusan ke negeri Tiongkok pada tahun 442, 449, 451, 459, 464 dan 466.\n\nProf. Gabriel Ferrand, pada tulisannya dalam majalah ilmiah Journal Asiatique, Paris, 1918, hal. 477, berpendapat bahwa kedua nama itu mungkin hanya satu nama: To-lang-po-hwang, lalu negeri itu dilokasikan Ferrand di daerah Tulangbawang, Lampung. Prof. Dr. Raden Mas Ngabehi Poerbatjaraka, dalam bukunya Riwajat Indonesia I,Jajasan Pembangunan, Djakarta, 1952, hal. 25, menyetujui kemungkinan adanya kerajaan Tulangbawang, meskipun anggapan itu semata-mata karena menyatukan dua toponimi dalam kronik Tiongkok. "
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://www.wikiwand.com/id/Suku_Lampung"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</ScrollView>

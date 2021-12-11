@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView88"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Tempoyak"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView88"
+            android:layout_width="match_parent"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/makanan5" />
+
+        <TextView
+            android:id="@+id/textView99"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView7"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Tempoyak adalah fermentasi durian yang dibuat menjadi semacam saus atau pelengkap makanan.Selain itu, sebenarnya bukan hanya Lampung, tempoyak biasa digunakan sebagai bumbu masakan di beberapa daerah lainnya, seperti Palembang, Jambi, dan lain-lain. Proses pembuatan tempoyak diawali dengan pemeraman daging buah durian. Daging buah durian yang sudah ditempatkan dalam wadah, kemudian ditambahkan garam atau dengan ragi. Banyak sedikitnya garam inilah yang memengaruhi jenis tempoyak yang dihasilkan, yaitu tempoyak asam atau tempoyak asin. Perlu dipahami, agar proses fermentasinya bisa lebih cepat, tempoyak akan dimasukkan ke wadah tertutup atau disimpan di dalam kulkas. Hasil dari proses fermentasi akan mengubah rasa alami bahan menjadi rasa khas tempoyak yang sedikit beraroma durian dan rasanya agak asam. Jika sudah selesai difermentasi, bisa ditambahkan dengan aneka ikan, mulai dari ikan teri, ikan mujair, ikan mas, dan lainnya."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://www.orami.co.id/magazine/makanan-khas-lampung/"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</ScrollView>

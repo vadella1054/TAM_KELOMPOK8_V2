@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Gulai Taboh"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView20"
+            android:layout_width="match_parent"
+            android:layout_height="202dp"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_alignTop="@+id/textView4"
+            app:srcCompat="@drawable/makanan4" />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView7"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Makanan ini terbuat dari santan yang dimasak dengan ikan. Nah, bukan hanya ikan yang dimasukkan ke dalam gulai ini, namun ada juga rebung, kol, kacang panjang, dan kacang merah. Jenis ikan yang biasa digunakan dalam gulai taboh, yaitu ikan tongkol atau ikan tuna. Bisa dikatakan, rasa dari gulai taboh mirip dengan sayur lodeh, namun memiliki rasa yang lebih gurih dan berbumbu. Ada dua jenis gulai taboh yang terkenal di Lampung. Pertama, gulai taboh dengan menggunakan bahan dasar ikan laut yang ditambahkan sayuran daun tangkil, kacang panjang, dan rebung. Kedua, gulai taboh yang dibuat dengan ikan sungai, beserta campuran tuba atau kluwek."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://www.orami.co.id/magazine/makanan-khas-lampung/"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</ScrollView>
